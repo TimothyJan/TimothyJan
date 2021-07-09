@@ -3,3 +3,4 @@
 - 🌱 I’m currently pursuing my M.S. for Computer Science at CSU Fullerton. 
 - 💞️ I completed my B.S. for Electrical Engineering at UC Irvine, worked 3 years, then decided change careers and pursue Computer Science. 
 - 📫 Please contact me at Jan.Timothy@gmail.com
+- https://timothyjan.github.io/PersonalWebPage/
